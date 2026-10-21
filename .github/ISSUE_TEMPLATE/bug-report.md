@@ -24,6 +24,7 @@ A clear and concise description of what you expected to happen: "Your Descriptio
 ## Environment
 Replace examples in [Text] below:
 * **Minecraft Version:** [e.g., 1.21.1]
+* **NeoForge Version:** [e.g., 21.1.257]
 * **Mod Version:** [e.g., 1.1.2]
 * **Other Mods:** [List any mods that might conflict, or write "None"]
 
